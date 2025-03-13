@@ -62,7 +62,17 @@
     background-color: #5bb471 ; 
     color : #fff;
     text-align:center ; 
-    
-
 }
+.cta__description{
+    padding : 15px 0 ; 
+  
+}
+button{
+    color : none ; 
+    border : none ; 
+}
+.cta__button{
+    padding : 10px 20px ; 
+}
+
 
